@@ -20,9 +20,6 @@ jobs:
       - name: Run build
         run: yarn run build
 
-      - name: Run ESLint
-        run: yarn run eslint
-
       - name: Create Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
