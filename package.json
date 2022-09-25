@@ -9,7 +9,7 @@
     "release": "auto shipit"
   },
   "keywords": [],
-  "author": "Oliver Balfour",
+  "author": "Oliver Balfour <oliver.leo.balfour@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.11.6",
