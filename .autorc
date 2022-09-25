@@ -1,11 +1,5 @@
 {
   "plugins": [
-    [
-      "obsidian",
-      {
-        "zip": true
-      }
-    ],
-    "released"
+    "obsidian"
   ]
 }
