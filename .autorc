@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    [
+      "obsidian",
+      {
+        "dir": "dist",
+        "zip": true
+      }
+    ],
+    "released"
+  ]
+}
